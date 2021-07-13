@@ -1,4 +1,4 @@
-# Kubernetes 1011
+# Kubernetes 101
 
 [![CI](https://github.com/geerlingguy/kubernetes-101/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/geerlingguy/kubernetes-101/actions?query=workflow%3ACI)
 
